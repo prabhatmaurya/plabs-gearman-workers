@@ -16,4 +16,4 @@ Configuration
     $ vi config.ini
     $ docker build -t reverse_string_py3:1 .
     $ docker run reverse_string_py3:1  
-    
+~~~~~~~~~~~~~
